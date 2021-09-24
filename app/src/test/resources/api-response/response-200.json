@@ -1,0 +1,24 @@
+[
+  {
+    "site": "https://subus.cl/",
+    "code": "SUBUS",
+    "alliance": "none",
+    "phone": "",
+    "name": "SuBús",
+    "usName": "SuBús",
+    "__clazz": "com.r9.harmony.httpd.mobileapis.AirlineMobile",
+    "defaultName": "SuBús",
+    "logoURL": "/rimg/provider-logos/airlines/v/SUBUS.png?crop=false&width=108&height=92&fallback=default1.png&_v=prod-ad1150fe671c602861ca3e25a012e0d6ec20ccc4"
+  },
+  {
+    "site": "sitasudtrasporti.it",
+    "code": "SITASUD",
+    "alliance": "none",
+    "phone": "",
+    "name": "SITA Sud",
+    "usName": "SITA Sud",
+    "__clazz": "com.r9.harmony.httpd.mobileapis.AirlineMobile",
+    "defaultName": "SITA Sud",
+    "logoURL": "/rimg/provider-logos/airlines/v/SITASUD.png?crop=false&width=108&height=92&fallback=default3.png&_v=8e634b2affd75b43a2cb1f32d857ccc2"
+  }
+]

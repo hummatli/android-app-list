@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kayak App</string>
+    <string name="splash_title">Kayak App</string>
+
+    <string name="action_retry">Retry</string>
+    <string name="generic_error_unknown">Unknown error</string>
+    <string name="details">Details</string>
+    <string name="airlines">Airlines</string>
+    <string name="general">General</string>
+</resources>

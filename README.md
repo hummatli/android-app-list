@@ -1,7 +1,8 @@
-# kayak-app-android challenge
+# Sample Android App
 
 #### About
-Sample application for Kayak's challenge. The app uses the simple API, reads airline list and can show them in detail.
+
+The app uses the simple API, reads airline list and can show them in detail.
 
 #### Structure
 The application is built with an MVVM pattern and uses the latest Android technology.
